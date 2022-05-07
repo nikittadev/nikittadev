@@ -1,5 +1,6 @@
 - 👋 Username: @nikittadev
-- 👀 17 Years old,From Warsaw,Poland
+- 👀 17 Years old
+- 🏙️ Poland
 - 🌱 Currently Learning: VueJS
 - 💞️ DreamJob: Google
 - 📫 Contact: umlbr131@gmail.com
